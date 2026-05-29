@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sneha Ghadge
 
 🎓 Computer Science Student  
-💻 Aspiring Full Stack & Machine Learning Developer  
+💻 Aspiring SDE & AIML enthusiast 
 🚀 Passionate about building intelligent, real-world web applications  
 📍 India  
 
@@ -10,10 +10,7 @@
 ## 👩‍💻 About Me
 
 - 🌱 Currently learning **Machine Learning & Backend Development**
-- 🔭 Working on **MERN Stack projects**
 - 🧠 Interested in **AI-powered applications & predictive systems**
-- 🎯 Goal: Become a **Full Stack ML Engineer**
-- 💡 I enjoy solving real-world problems using data and scalable systems
 
 ---
 
@@ -51,28 +48,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
-
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/snehaghadge 
-- 📧 Email: snehaghadge1111@gmail.com 
-- 🌐 Portfolio: Coming Soon  
+- 📧 Email: snehaghadge1111@gmail.com
 
----
-
-## ⚡ Fun Fact
-
-I believe debugging is just problem-solving in disguise   
-
----
-
-⭐ From Sneha with curiosity and consistency
